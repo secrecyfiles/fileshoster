@@ -39,7 +39,7 @@
   {
     "id": 2,
     "title": "Five Nights at Freddy's 3",
-    "url": "https://www.dropbox.com/scl/fi/kbwczlfhco7l4kiqmqo6p/Five-Nights-at-Freddy-s-3.exe?rlkey=j2ay0iayhr6wzyj38r9t6j4co&st=mrjeyky6&dl=1",
+    "url": "",
     "executable": "FNaF3.exe",
     "needExtract": false,
     "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/2/header.jpg",
@@ -107,6 +107,80 @@
         "Gráficos: 2 GB",
         "DirectX: Versión 9.0",
         "Almacenamiento: 2 GB disponibles"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "title": "Phasmophobia",
+    "url": "",
+    "executable": "Phasmophobia.exe",
+    "needExtract": false,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/4/header.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/4/header.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/4/video.webm",
+    "genre": "Terror psicológico cooperativo",
+    "size": "21 GB",
+    "lastPlayed": "(Estadísticas no disponibles)",
+    "description": "Phasmophobia es un juego de terror psicológico cooperativo en línea para hasta 4 jugadores. Tú y tu equipo de investigadores paranormales entraréis en lugares encantados llenos de actividad paranormal e intentaréis reunir todas las pruebas posibles.",
+    "fullDescription": "En Phasmophobia, asumes el rol de un investigador paranormal que, junto con un equipo de hasta cuatro jugadores, se adentra en diversas ubicaciones embrujadas para recopilar evidencia de actividad fantasmal. Utilizando una variedad de herramientas como lectores EMF, cámaras de visión nocturna y cajas de espíritu, debes identificar el tipo de entidad presente y completar objetivos adicionales para obtener recompensas. El juego destaca por su atmósfera inmersiva y su uso innovador del reconocimiento de voz, permitiendo que los fantasmas respondan a tus preguntas y comandos. Con más de 20 tipos de fantasmas, cada uno con comportamientos y características únicas, Phasmophobia ofrece una experiencia desafiante y aterradora que requiere comunicación y trabajo en equipo para sobrevivir.",
+    "developer": "Kinetic Games",
+    "publisher": "Kinetic Games",
+    "releaseDate": "18 SEP 2020 (Acceso Anticipado)",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 10 de 64 bits",
+        "Procesador: Intel Core i5-4590 / AMD FX 8350",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVIDIA GTX 970 / AMD Radeon R9 290",
+        "DirectX: Versión 11",
+        "Almacenamiento: 21 GB de espacio disponible"
+      ],
+      "recommended": [
+        "OS: Windows 10 de 64 bits",
+        "Procesador: Intel i7 / AMD Ryzen 7",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: NVIDIA RTX 2060 / AMD Radeon RX 5700",
+        "DirectX: Versión 12",
+        "Almacenamiento: 21 GB de espacio disponible"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "title": "Overcooked! 2",
+    "url": "",
+    "executable": "Overcooked2.exe",
+    "needExtract": false,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/5/header.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/5/header.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/5/video.webm",
+    "genre": "Simulación de cocina cooperativa",
+    "size": "3 GB",
+    "lastPlayed": "(Estadísticas no disponibles)",
+    "description": "Overcooked! 2 es un juego de cocina cooperativo en el que los jugadores deben preparar y servir una variedad de platos en cocinas cada vez más caóticas y desafiantes.",
+    "fullDescription": "En Overcooked! 2, regresas al Reino de la Cebolla para enfrentar una nueva amenaza culinaria: el 'Pan Demonium'. Trabajando solo o con hasta cuatro jugadores, debes cocinar una variedad de recetas en cocinas dinámicas y desafiantes. El juego introduce nuevas mecánicas como lanzar ingredientes, niveles interactivos con obstáculos como portales y pasarelas móviles, y la posibilidad de jugar en línea con amigos o mediante emparejamiento. Con una amplia gama de niveles temáticos y recetas, Overcooked! 2 ofrece una experiencia frenética y divertida que pone a prueba tus habilidades de comunicación y coordinación.",
+    "developer": "Ghost Town Games y Team17 Digital",
+    "publisher": "Team17 Digital",
+    "releaseDate": "7 AGO 2018",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: WIN7-64 bit",
+        "Procesador: Intel i3-2100 / AMD A8-5600k",
+        "Memoria: 4 GB RAM",
+        "Gráficos: GeForce GTX 630 / Radeon HD 6570",
+        "DirectX: Versión 11",
+        "Almacenamiento: 3 GB disponibles"
+      ],
+      "recommended": [
+        "OS: Windows 10 de 64 bits",
+        "Procesador: Intel i5-650 / AMD A10-5800K",
+        "Memoria: 8 GB RAM",
+        "Gráficos: Nvidia GeForce GTX 650 / Radeon HD 7510",
+        "DirectX: Versión 11",
+        "Almacenamiento: 3 GB disponibles"
       ]
     }
   }
