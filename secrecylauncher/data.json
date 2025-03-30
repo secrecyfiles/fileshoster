@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "title": "R.E.P.O.",
+    "url": "https://www.dropbox.com/scl/fi/lev8mhz83iv1eb7ilyyhj/R.E.P.O.rar?rlkey=i7bhebpsluep3ukiedf9g90kh&st=154r0jiz&dl=1",
+    "executable": "REPO.exe",
+    "needExtract": true,
+    "image": "/header.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/1/header.jpg",
+    "backgroundVideo": "/video.webm",
+    "genre": "Terror cooperativo en línea",
+    "size": "1.7 GB",
+    "lastPlayed": "(Estadísticas no disponibles)",
+    "description": "R.E.P.O. es un juego de horror cooperativo para hasta 6 jugadores, donde debes localizar, manipular y extraer objetos valiosos con físicas realistas para cumplir los deseos de tu creador.",
+    "fullDescription": "En R.E.P.O., tú y tu equipo seréis enviados por una entidad misteriosa para recuperar objetos de valor en entornos oscuros y peligrosos. Con una mecánica de físicas compleja, cada objeto debe ser manejado con precisión mientras lidias con horrores ocultos. La experiencia se centra en el trabajo en equipo, la tensión constante y una ambientación espeluznante. Con una comunidad activa y reseñas extremadamente positivas, R.E.P.O. se ha convertido en un fenómeno cooperativo del terror.",
+    "developer": "semiwork",
+    "publisher": "semiwork",
+    "releaseDate": "26 FEB 2025",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 10 64-bit",
+        "Procesador: Intel i5-4590 / AMD FX 8350",
+        "Memoria: 8 GB RAM",
+        "Gráficos: NVIDIA GTX 970 / AMD Radeon R9 290",
+        "DirectX: Versión 11",
+        "Almacenamiento: 10 GB disponibles"
+      ],
+      "recommended": [
+        "OS: Windows 10 64-bit",
+        "Procesador: Intel i7 / AMD Ryzen 7",
+        "Memoria: 16 GB RAM",
+        "Gráficos: NVIDIA RTX 2060 / AMD RX 5700",
+        "DirectX: Versión 12",
+        "Almacenamiento: 10 GB SSD"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "title": "Instalador de Steam",
+    "url": "https://cdn.fastly.steamstatic.com/client/installer/SteamSetup.exe",
+    "executable": "SteamSetup.exe",
+    "needExtract": false,
+    "image": "/header.jpg",
+    "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3241660/header.jpg?t=1740578354",
+    "backgroundVideo": "/video.webm",
+    "genre": "Terror cooperativo en línea",
+    "size": "1.7 GB",
+    "lastPlayed": "(Estadísticas no disponibles)",
+    "description": "R.E.P.O. es un juego de horror cooperativo para hasta 6 jugadores, donde debes localizar, manipular y extraer objetos valiosos con físicas realistas para cumplir los deseos de tu creador.",
+    "fullDescription": "En R.E.P.O., tú y tu equipo seréis enviados por una entidad misteriosa para recuperar objetos de valor en entornos oscuros y peligrosos. Con una mecánica de físicas compleja, cada objeto debe ser manejado con precisión mientras lidias con horrores ocultos. La experiencia se centra en el trabajo en equipo, la tensión constante y una ambientación espeluznante. Con una comunidad activa y reseñas extremadamente positivas, R.E.P.O. se ha convertido en un fenómeno cooperativo del terror.",
+    "developer": "semiwork",
+    "publisher": "semiwork",
+    "releaseDate": "26 FEB 2025",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 10 64-bit",
+        "Procesador: Intel i5-4590 / AMD FX 8350",
+        "Memoria: 8 GB RAM",
+        "Gráficos: NVIDIA GTX 970 / AMD Radeon R9 290",
+        "DirectX: Versión 11",
+        "Almacenamiento: 10 GB disponibles"
+      ],
+      "recommended": [
+        "OS: Windows 10 64-bit",
+        "Procesador: Intel i7 / AMD Ryzen 7",
+        "Memoria: 16 GB RAM",
+        "Gráficos: NVIDIA RTX 2060 / AMD RX 5700",
+        "DirectX: Versión 12",
+        "Almacenamiento: 10 GB SSD"
+      ]
+    }
+  }
+]
