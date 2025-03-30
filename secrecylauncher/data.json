@@ -39,7 +39,7 @@
   {
     "id": 2,
     "title": "Five Nights at Freddy's 3",
-    "url": "https://store.steampowered.com/app/354140/Five_Nights_at_Freddys_3/",
+    "url": "https://www.dropbox.com/scl/fi/kbwczlfhco7l4kiqmqo6p/Five-Nights-at-Freddy-s-3.exe?rlkey=j2ay0iayhr6wzyj38r9t6j4co&st=mrjeyky6&dl=1",
     "executable": "FNaF3.exe",
     "needExtract": false,
     "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/2/header.jpg",
@@ -70,6 +70,43 @@
         "Gráficos: 2 GB",
         "DirectX: Versión 9.0",
         "Almacenamiento: 500 MB disponibles"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "title": "Five Nights at Freddy's 4",
+    "url": "https://www.dropbox.com/scl/fi/d723yepy2z90slxzyoyx6/FNAF4-v1.022.exe?rlkey=each6s200osud16cfeze2pr5g&st=ci4z0m2x&dl=1",
+    "executable": "FNaF4.exe",
+    "needExtract": false,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/3/header.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/3/header.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/3/video.mp4",
+    "genre": "Survival Horror",
+    "size": "1 GB",
+    "lastPlayed": "(Estadísticas no disponibles)",
+    "description": "Five Nights at Freddy's 4 es la cuarta entrega de la popular saga de terror, donde encarnas a un niño que debe sobrevivir cinco noches enfrentándose a versiones pesadillescas de los animatrónicos en su propia habitación.",
+    "fullDescription": "En Five Nights at Freddy's 4, juegas como un niño atrapado en su habitación, aterrorizado por las versiones pesadillescas de Freddy, Bonnie, Chica y Foxy. Sin cámaras de seguridad ni puertas de oficina, debes vigilar las puertas de tu habitación, el armario y la cama detrás de ti, utilizando solo una linterna para protegerte. La jugabilidad se centra en escuchar atentamente los sonidos y movimientos de los animatrónicos para cerrar las puertas a tiempo y evitar ser atrapado. Cada noche aumenta en dificultad, introduciendo nuevos desafíos y enemigos. Además, entre las noches, se presentan minijuegos que revelan más sobre la trágica historia del niño y su conexión con los animatrónicos. La atmósfera tensa y la mecánica basada en el sonido hacen de esta entrega una experiencia aterradora y única en la serie.",
+    "developer": "Scott Cawthon",
+    "publisher": "Scott Cawthon",
+    "releaseDate": "23 JUL 2015",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows XP/Vista/7/8",
+        "Procesador: 2 GHz Intel Pentium 4 o superior",
+        "Memoria: 2 GB RAM",
+        "Gráficos: 1 GB",
+        "DirectX: Versión 9.0",
+        "Almacenamiento: 1 GB disponibles"
+      ],
+      "recommended": [
+        "OS: Windows 7/8/10",
+        "Procesador: 2.5 GHz Intel Pentium 4 o superior",
+        "Memoria: 4 GB RAM",
+        "Gráficos: 2 GB",
+        "DirectX: Versión 9.0",
+        "Almacenamiento: 2 GB disponibles"
       ]
     }
   }
