@@ -37,10 +37,47 @@
     }
   },
   {
+    "id": 6,
+    "title": "Five Nights at Freddy's: Sister Location",
+    "url": "https://www.dropbox.com/scl/fi/atdh762w5cmmja5n6hk9c/SisterLocation.exe?rlkey=m3bmeooicbp2rgk6kz2angyiu&st=irm9pzp5&dl=1",
+    "executable": "SisterLocation.exe",
+    "needExtract": false,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/6/header.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/6/header.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/6/video.mp4",
+    "genre": "Terror y supervivencia",
+    "size": "1 GB",
+    "lastPlayed": "(Estadísticas no disponibles)",
+    "description": "Five Nights at Freddy's: Sister Location es la quinta entrega de la popular saga de terror, donde asumes el rol de un técnico nocturno en una instalación subterránea, enfrentándote a animatrónicos aterradores mientras realizas tareas de mantenimiento.",
+    "fullDescription": "En Five Nights at Freddy's: Sister Location, te conviertes en un técnico nocturno contratado para trabajar en Circus Baby's Entertainment and Rental, una instalación subterránea que alberga animatrónicos avanzados destinados a eventos y fiestas. A diferencia de las entregas anteriores, este juego presenta una jugabilidad más variada, donde cada noche ofrece diferentes desafíos y tareas, desde monitorear sistemas hasta realizar reparaciones en áreas peligrosas. La narrativa se desarrolla a través de interacciones con los animatrónicos y una inteligencia artificial llamada HandUnit, revelando oscuros secretos sobre la instalación y sus habitantes mecánicos. Con una atmósfera tensa y una historia intrigante, Sister Location aporta una nueva dimensión a la saga Five Nights at Freddy's.",
+    "developer": "Scott Cawthon",
+    "publisher": "Scott Cawthon",
+    "releaseDate": "7 OCT 2016",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows XP/Vista/7/8/10",
+        "Procesador: 2 GHz Intel Pentium 4 o superior",
+        "Memoria: 2 GB RAM",
+        "Gráficos: 1 GB",
+        "DirectX: Versión 9.0",
+        "Almacenamiento: 1 GB disponibles"
+      ],
+      "recommended": [
+        "OS: Windows 7/8/10",
+        "Procesador: 2.5 GHz Intel Pentium 4 o superior",
+        "Memoria: 4 GB RAM",
+        "Gráficos: 2 GB",
+        "DirectX: Versión 9.0",
+        "Almacenamiento: 2 GB disponibles"
+      ]
+    }
+  },
+  {
     "id": 3,
     "title": "Five Nights at Freddy's 4",
-    "url": "https://www.dropbox.com/scl/fi/sye97rwyum77fmgokntti/five-nigths-freddys-3-fan-made.rar?rlkey=cjbghkx3xyuajr5qccoutwr02&st=sxi7z90m&dl=1",
-    "executable": "FNAF4 v1.022.exe",
+    "url": "https://www.dropbox.com/scl/fi/pp34tcf1pffor7ieuvii8/FNAF4.rar?rlkey=r8g20cz5bnitcc3gfbqz4wmql&e=1&st=wng2utqs&dl=1",
+    "executable": "FNAF4.exe",
     "needExtract": true,
     "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/3/header.jpg",
     "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/3/header.jpg",
