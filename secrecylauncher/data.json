@@ -184,7 +184,10 @@
   {
     "id": 4,
     "title": "Phasmophobia",
-    "url": "",
+    "url": [
+      "https://pixeldrain.com/api/file/AapXJh9W?download",
+      "https://pixeldrain.com/api/file/pYnyuvYH?download"
+    ],
     "executable": "Phasmophobia.exe",
     "needExtract": false,
     "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/4/header.webp",
