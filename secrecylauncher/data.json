@@ -109,6 +109,44 @@
     }
   },
   {
+    "id": 7,
+    "title": "The Joy of Creation: Story Mode",
+    "url": "https://download.gamejolt.net/25a9fa963edcef17ab261b7d63c18dfe0fd7bdf0bcab9e4637c44d34bac4b11e,1743899059,7/data/games/2/218/139218/files/5970fb099cff8/the-joy-of-creation-story-mode.zip",
+    "executable": "/The Joy of Creation Story Mode/TJoC_SM.exe",
+    "needExtract": true,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/7/header.webp",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/7/header.webp",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/7/video.mp4",
+    "genre": "Terror y supervivencia",
+    "size": "1 GB",
+    "lastPlayed": "(Estadísticas no disponibles)",
+    "description": "The Joy of Creation: Story Mode es un fangame de terror inspirado en Five Nights at Freddy's, donde asumes el rol de Scott Cawthon y su familia, enfrentándote a animatrónicos aterradores en tu propio hogar.",
+    "fullDescription": "En The Joy of Creation: Story Mode, te pones en la piel de Scott Cawthon, el creador de la saga Five Nights at Freddy's, quien junto a su familia debe sobrevivir a una noche aterradora en su propia casa, invadida por animatrónicos hostiles. El juego ofrece cinco niveles únicos, cada uno con una jugabilidad diferente y desafíos específicos. Con escenas en primera persona y actuación de voz, una banda sonora personalizada y efectos de sonido envolventes, el juego proporciona una experiencia inmersiva y escalofriante que expande el universo de FNaF desde una perspectiva novedosa.",
+    "developer": "Nikson",
+    "publisher": "Nikson",
+    "releaseDate": "17 JUL 2017",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 7 de 64 bits o superior",
+        "Procesador: Intel Core i5-1300F o equivalente",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Tarjeta gráfica moderna compatible con DirectX 11",
+        "DirectX: Versión 11",
+        "Almacenamiento: 5 GB de espacio disponible"
+      ],
+      "recommended": [
+        "OS: Windows 10 de 64 bits",
+        "Procesador: Intel Core i5-6402P o superior",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: Tarjeta gráfica moderna compatible con DirectX 11",
+        "DirectX: Versión 11",
+        "Almacenamiento: 5 GB de espacio disponible"
+      ]
+    }
+  },
+
+  {
     "id": 2,
     "title": "Five Nights at Freddy's 3",
     "url": "",
