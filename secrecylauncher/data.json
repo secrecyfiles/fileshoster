@@ -189,7 +189,7 @@
       "https://www.dropbox.com/scl/fi/kq90kt1obhqg1e4gdl6q1/p1.rar?rlkey=wdwdt2ifk2dtgqalr5pde7idg&st=7995cml3&dl=1"
     ],
     "executable": "Phasmophobia.exe",
-    "needExtract": false,
+    "needExtract": true,
     "extractPassword": "online-fix.me",
     "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/4/header.webp",
     "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/4/header.webp",
