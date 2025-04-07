@@ -78,6 +78,44 @@
     }
   },
   {
+    "id": 8,
+    "title": "Human: Fall Flat",
+    "url": "https://pixeldrain.com/api/file/GUXFLYcP?download",
+    "executable": "HumanFallFlat/Human.exe",
+    "needExtract": true,
+    "extractPassword": "online-fix.me",
+    "requireSteam": true,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/8/image.png",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/8/header.webp",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/8/video.webm",
+    "genre": "Plataformas, Física, Cooperativo",
+    "size": "2.5 GB",
+    "description": "Human: Fall Flat es un divertido juego de plataformas basado en física con soporte para multijugador cooperativo en línea. Resuelve rompecabezas con libertad y creatividad en un mundo lleno de física loca.",
+    "fullDescription": "Human: Fall Flat es un juego de plataformas y acertijos basado en física donde controlas a un personaje personalizable con movimientos torpes pero entrañables. Cada nivel presenta desafíos únicos que pueden resolverse de múltiples formas, fomentando la creatividad y el trabajo en equipo. Puedes jugar solo o con hasta 8 amigos en línea mientras exploras entornos surrealistas y dinámicos como castillos, fábricas, estaciones de tren y más. Gracias a sus controles únicos y físicas realistas, cada sesión de juego es una experiencia divertida, impredecible y llena de risas.",
+    "developer": "No Brakes Games",
+    "publisher": "Curve Games",
+    "releaseDate": "22 JUL 2016",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 7 de 64 bits",
+        "Procesador: Intel Core2 Duo E6750 / AMD Athlon 64 X2 6400+",
+        "Memoria: 2 GB de RAM",
+        "Gráficos: NVIDIA GeForce 8800GT / ATI Radeon HD 4850",
+        "DirectX: Versión 11",
+        "Almacenamiento: 2.5 GB de espacio disponible"
+      ],
+      "recommended": [
+        "OS: Windows 10 de 64 bits",
+        "Procesador: Intel Core i3-6300 / AMD Ryzen 3 1200",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVIDIA GeForce GTX 660 / AMD Radeon R9 270",
+        "DirectX: Versión 11",
+        "Almacenamiento: 2.5 GB de espacio disponible"
+      ]
+    }
+  },
+  {
     "id": 6,
     "title": "Five Nights at Freddy's: Sister Location",
     "url": "https://www.dropbox.com/scl/fi/atdh762w5cmmja5n6hk9c/SisterLocation.exe?rlkey=m3bmeooicbp2rgk6kz2angyiu&st=irm9pzp5&dl=1",
