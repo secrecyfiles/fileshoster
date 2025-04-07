@@ -37,6 +37,47 @@
     }
   },
   {
+    "id": 4,
+    "title": "Phasmophobia",
+    "url": [
+      "https://pixeldrain.com/api/file/AapXJh9W?download",
+      "https://pixeldrain.com/api/file/pYnyuvYH?download"
+    ],
+    "executable": "Phasmophobia/Launcher.exe",
+    "needExtract": true,
+    "extractPassword": "online-fix.me",
+    "requireSteam": true,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/4/image.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/4/header.webp",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/4/video.webm",
+    "genre": "Terror psicológico cooperativo",
+    "size": "21 GB",
+    "description": "Phasmophobia es un juego de terror psicológico cooperativo en línea para hasta 4 jugadores. Tú y tu equipo de investigadores paranormales entraréis en lugares encantados llenos de actividad paranormal e intentaréis reunir todas las pruebas posibles.",
+    "fullDescription": "En Phasmophobia, asumes el rol de un investigador paranormal que, junto con un equipo de hasta cuatro jugadores, se adentra en diversas ubicaciones embrujadas para recopilar evidencia de actividad fantasmal. Utilizando una variedad de herramientas como lectores EMF, cámaras de visión nocturna y cajas de espíritu, debes identificar el tipo de entidad presente y completar objetivos adicionales para obtener recompensas. El juego destaca por su atmósfera inmersiva y su uso innovador del reconocimiento de voz, permitiendo que los fantasmas respondan a tus preguntas y comandos. Con más de 20 tipos de fantasmas, cada uno con comportamientos y características únicas, Phasmophobia ofrece una experiencia desafiante y aterradora que requiere comunicación y trabajo en equipo para sobrevivir.",
+    "developer": "Kinetic Games",
+    "publisher": "Kinetic Games",
+    "releaseDate": "18 SEP 2020 (Acceso Anticipado)",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 10 de 64 bits",
+        "Procesador: Intel Core i5-4590 / AMD FX 8350",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVIDIA GTX 970 / AMD Radeon R9 290",
+        "DirectX: Versión 11",
+        "Almacenamiento: 21 GB de espacio disponible"
+      ],
+      "recommended": [
+        "OS: Windows 10 de 64 bits",
+        "Procesador: Intel i7 / AMD Ryzen 7",
+        "Memoria: 16 GB de RAM",
+        "Gráficos: NVIDIA RTX 2060 / AMD Radeon RX 5700",
+        "DirectX: Versión 12",
+        "Almacenamiento: 21 GB de espacio disponible"
+      ]
+    }
+  },
+  {
     "id": 6,
     "title": "Five Nights at Freddy's: Sister Location",
     "url": "https://www.dropbox.com/scl/fi/atdh762w5cmmja5n6hk9c/SisterLocation.exe?rlkey=m3bmeooicbp2rgk6kz2angyiu&st=irm9pzp5&dl=1",
@@ -181,47 +222,7 @@
       ]
     }
   },
-  {
-    "id": 4,
-    "title": "Phasmophobia",
-    "url": [
-      "https://pixeldrain.com/api/file/AapXJh9W?download",
-      "https://pixeldrain.com/api/file/pYnyuvYH?download"
-    ],
-    "executable": "Phasmophobia/Launcher.exe",
-    "needExtract": true,
-    "extractPassword": "online-fix.me",
-    "requireSteam": true,
-    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/4/image.jpg",
-    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/4/header.webp",
-    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/4/video.webm",
-    "genre": "Terror psicológico cooperativo",
-    "size": "21 GB",
-    "description": "Phasmophobia es un juego de terror psicológico cooperativo en línea para hasta 4 jugadores. Tú y tu equipo de investigadores paranormales entraréis en lugares encantados llenos de actividad paranormal e intentaréis reunir todas las pruebas posibles.",
-    "fullDescription": "En Phasmophobia, asumes el rol de un investigador paranormal que, junto con un equipo de hasta cuatro jugadores, se adentra en diversas ubicaciones embrujadas para recopilar evidencia de actividad fantasmal. Utilizando una variedad de herramientas como lectores EMF, cámaras de visión nocturna y cajas de espíritu, debes identificar el tipo de entidad presente y completar objetivos adicionales para obtener recompensas. El juego destaca por su atmósfera inmersiva y su uso innovador del reconocimiento de voz, permitiendo que los fantasmas respondan a tus preguntas y comandos. Con más de 20 tipos de fantasmas, cada uno con comportamientos y características únicas, Phasmophobia ofrece una experiencia desafiante y aterradora que requiere comunicación y trabajo en equipo para sobrevivir.",
-    "developer": "Kinetic Games",
-    "publisher": "Kinetic Games",
-    "releaseDate": "18 SEP 2020 (Acceso Anticipado)",
-    "platform": "Windows",
-    "systemRequirements": {
-      "minimum": [
-        "OS: Windows 10 de 64 bits",
-        "Procesador: Intel Core i5-4590 / AMD FX 8350",
-        "Memoria: 8 GB de RAM",
-        "Gráficos: NVIDIA GTX 970 / AMD Radeon R9 290",
-        "DirectX: Versión 11",
-        "Almacenamiento: 21 GB de espacio disponible"
-      ],
-      "recommended": [
-        "OS: Windows 10 de 64 bits",
-        "Procesador: Intel i7 / AMD Ryzen 7",
-        "Memoria: 16 GB de RAM",
-        "Gráficos: NVIDIA RTX 2060 / AMD Radeon RX 5700",
-        "DirectX: Versión 12",
-        "Almacenamiento: 21 GB de espacio disponible"
-      ]
-    }
-  },
+
   {
     "id": 5,
     "title": "Overcooked! 2",
