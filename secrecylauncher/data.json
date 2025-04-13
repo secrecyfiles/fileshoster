@@ -51,7 +51,7 @@
     "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/4/header.webp",
     "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/4/video.webm",
     "genre": "Terror psicológico cooperativo",
-    "size": "21 GB",
+    "size": "30 GB",
     "description": "Phasmophobia es un juego de terror psicológico cooperativo en línea para hasta 4 jugadores. Tú y tu equipo de investigadores paranormales entraréis en lugares encantados llenos de actividad paranormal e intentaréis reunir todas las pruebas posibles.",
     "fullDescription": "En Phasmophobia, asumes el rol de un investigador paranormal que, junto con un equipo de hasta cuatro jugadores, se adentra en diversas ubicaciones embrujadas para recopilar evidencia de actividad fantasmal. Utilizando una variedad de herramientas como lectores EMF, cámaras de visión nocturna y cajas de espíritu, debes identificar el tipo de entidad presente y completar objetivos adicionales para obtener recompensas. El juego destaca por su atmósfera inmersiva y su uso innovador del reconocimiento de voz, permitiendo que los fantasmas respondan a tus preguntas y comandos. Con más de 20 tipos de fantasmas, cada uno con comportamientos y características únicas, Phasmophobia ofrece una experiencia desafiante y aterradora que requiere comunicación y trabajo en equipo para sobrevivir.",
     "developer": "Kinetic Games",
@@ -81,7 +81,7 @@
     "id": 8,
     "title": "Human: Fall Flat",
     "url": "https://pixeldrain.com/api/file/GUXFLYcP?download",
-    "executable": "HumanFallFlat/Human.exe",
+    "executable": "Human Fall Flat/Human.exe",
     "needExtract": true,
     "extractPassword": "online-fix.me",
     "requireSteam": true,
@@ -223,7 +223,44 @@
       ]
     }
   },
-
+  {
+    "id": 5,
+    "title": "Overcooked!",
+    "url": "https://pixeldrain.com/api/file/9Hc2N7w8?download",
+    "executable": "Overcooked/Overcooked.exe",
+    "requireSteam": true,
+    "extractPassword": "online-fix.me",
+    "needExtract": true,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/5/header.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/5/header.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/5/video.webm",
+    "genre": "Simulación de cocina cooperativa",
+    "size": "1 GB",
+    "description": "Overcooked! es un juego de cocina cooperativo en el que los jugadores deben preparar y servir una variedad de platos en cocinas cada vez más caóticas y desafiantes.",
+    "fullDescription": "En Overcooked!, tú y tus compañeros chefs deben trabajar en equipo para preparar, cocinar y servir una variedad de pedidos antes de que los clientes se marchen furiosos. Desde cocinas en camiones en movimiento hasta plataformas de hielo resbaladizas, cada nivel presenta desafíos únicos que pondrán a prueba tu coordinación y habilidades de comunicación.",
+    "developer": "Ghost Town Games",
+    "publisher": "Team17 Digital",
+    "releaseDate": "3 AGO 2016",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows XP SP2 o posterior",
+        "Procesador: 1.7 GHz Dual Core",
+        "Memoria: 2 GB RAM",
+        "Gráficos: GPU de 800 MHz con 256 MB VRAM",
+        "DirectX: Versión 9.0",
+        "Almacenamiento: 1 GB de espacio disponible"
+      ],
+      "recommended": [
+        "OS: Windows 7",
+        "Procesador: 2.8 GHz Core 2 Duo",
+        "Memoria: 4 GB RAM",
+        "Gráficos: GPU de 800 MHz con 8 GB GDDR5",
+        "DirectX: Versión 11",
+        "Almacenamiento: 1 GB de espacio disponible"
+      ]
+    }
+  },
   {
     "id": 2,
     "title": "Five Nights at Freddy's 3",
@@ -257,43 +294,6 @@
         "Gráficos: 2 GB",
         "DirectX: Versión 9.0",
         "Almacenamiento: 500 MB disponibles"
-      ]
-    }
-  },
-
-  {
-    "id": 5,
-    "title": "Overcooked! 2",
-    "url": "",
-    "executable": "Overcooked2.exe",
-    "needExtract": false,
-    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/5/header.jpg",
-    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/5/header.jpg",
-    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/5/video.webm",
-    "genre": "Simulación de cocina cooperativa",
-    "size": "3 GB",
-    "description": "Overcooked! 2 es un juego de cocina cooperativo en el que los jugadores deben preparar y servir una variedad de platos en cocinas cada vez más caóticas y desafiantes.",
-    "fullDescription": "En Overcooked! 2, regresas al Reino de la Cebolla para enfrentar una nueva amenaza culinaria: el 'Pan Demonium'. Trabajando solo o con hasta cuatro jugadores, debes cocinar una variedad de recetas en cocinas dinámicas y desafiantes. El juego introduce nuevas mecánicas como lanzar ingredientes, niveles interactivos con obstáculos como portales y pasarelas móviles, y la posibilidad de jugar en línea con amigos o mediante emparejamiento. Con una amplia gama de niveles temáticos y recetas, Overcooked! 2 ofrece una experiencia frenética y divertida que pone a prueba tus habilidades de comunicación y coordinación.",
-    "developer": "Ghost Town Games y Team17 Digital",
-    "publisher": "Team17 Digital",
-    "releaseDate": "7 AGO 2018",
-    "platform": "Windows",
-    "systemRequirements": {
-      "minimum": [
-        "OS: WIN7-64 bit",
-        "Procesador: Intel i3-2100 / AMD A8-5600k",
-        "Memoria: 4 GB RAM",
-        "Gráficos: GeForce GTX 630 / Radeon HD 6570",
-        "DirectX: Versión 11",
-        "Almacenamiento: 3 GB disponibles"
-      ],
-      "recommended": [
-        "OS: Windows 10 de 64 bits",
-        "Procesador: Intel i5-650 / AMD A10-5800K",
-        "Memoria: 8 GB RAM",
-        "Gráficos: Nvidia GeForce GTX 650 / Radeon HD 7510",
-        "DirectX: Versión 11",
-        "Almacenamiento: 3 GB disponibles"
       ]
     }
   }
