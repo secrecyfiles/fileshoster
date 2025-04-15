@@ -1,7 +1,7 @@
 [
   {
     "id": 9,
-    "title": "SCHEDULE I",
+    "title": "Schedule I",
     "url": "https://pixeldrain.com/api/file/dvqtNeKq?download",
     "executable": "Schedule I/Schedule I.exe",
     "requireSteam": true,
@@ -10,30 +10,30 @@
     "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/9/image.jpg",
     "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/9/header.jpg",
     "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/9/video.webm",
-    "genre": "Simulación de cocina cooperativa",
+    "genre": "Simulador criminal cooperativo, estrategia táctica, sátira de comedia oscura",
     "size": "2.26 GB",
-    "description": "SCHEDULE I es un juego cooperativo desafiante que te lanza a situaciones de alta presión donde la coordinación es clave para sobrevivir.",
-    "fullDescription": "En SCHEDULE I, tú y tu equipo deberán actuar bajo presión para completar una serie de tareas que requieren precisión, rapidez y una comunicación impecable. Con escenarios que cambian constantemente y obstáculos que pondrán a prueba tu temple, cada nivel es una nueva oportunidad para mejorar como equipo.",
-    "developer": "Ghost Town Games",
-    "publisher": "Team17 Digital",
-    "releaseDate": "3 AGO 2016",
+    "description": "Schedule I es un simulador criminal de mundo abierto con elementos de estrategia y sátira, donde los jugadores gestionan operaciones de tráfico de drogas en un entorno ficticio.",
+    "fullDescription": "Schedule I combina mecánicas de simulación económica, gestión de recursos y juego cooperativo para hasta cuatro jugadores. Los jugadores comienzan con operaciones a pequeña escala y expanden su imperio criminal mediante la adquisición de propiedades, automatización de producción y gestión de personal. El juego presenta una estética caricaturesca que contrasta con su temática oscura, ofreciendo una experiencia única que ha sido comparada con títulos como Grand Theft Auto y Breaking Bad.",
+    "developer": "Tyler's Video Game Studio (TVGS)",
+    "publisher": "Tyler's Video Game Studio (TVGS)",
+    "releaseDate": "24 MAR 2025",
     "platform": "Windows",
     "systemRequirements": {
       "minimum": [
-        "OS: Windows XP SP2 o posterior",
-        "Procesador: 1.7 GHz Dual Core",
-        "Memoria: 2 GB RAM",
-        "Gráficos: GPU de 800 MHz con 256 MB VRAM",
-        "DirectX: Versión 9.0",
-        "Almacenamiento: 1 GB de espacio disponible"
+        "OS: Windows 7 64-bit",
+        "Procesador: Intel Core i3-2100 o AMD Phenom II X4 965",
+        "Memoria: 4 GB RAM",
+        "Gráficos: NVIDIA GeForce GTS 450 (1 GB) o AMD Radeon R7 250 (1 GB)",
+        "DirectX: Versión 10",
+        "Almacenamiento: 2 GB de espacio disponible"
       ],
       "recommended": [
-        "OS: Windows 7",
-        "Procesador: 2.8 GHz Core 2 Duo",
+        "OS: Windows 10 64-bit",
+        "Procesador: Intel Core i5-3470 o AMD FX-6300",
         "Memoria: 4 GB RAM",
-        "Gráficos: GPU de 800 MHz con 8 GB GDDR5",
+        "Gráficos: NVIDIA GeForce GTX 960 (4 GB) o AMD Radeon R9 380 (4 GB)",
         "DirectX: Versión 11",
-        "Almacenamiento: 1 GB de espacio disponible"
+        "Almacenamiento: 4 GB de espacio disponible"
       ]
     }
   },
