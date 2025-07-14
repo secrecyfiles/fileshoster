@@ -81,6 +81,7 @@
   {
     "id": 4,
     "title": "Phasmophobia",
+    "warning": "Servidor desconectado",
     "url": [
       "https://pixeldrain.com/api/file/wXXD8ncc?download",
       "https://pixeldrain.com/api/file/U5yeLVTN?download"
@@ -122,6 +123,7 @@
   {
     "id": 8,
     "title": "Human: Fall Flat",
+    "warning": "Servidor desconectado",
     "url": "https://pixeldrain.com/api/file/GUXFLYcP?download",
     "executable": "Human Fall Flat/Human.exe",
     "needExtract": true,
@@ -232,6 +234,7 @@
   {
     "id": 7,
     "title": "The Joy of Creation: Story Mode",
+    "warning": true,
     "url": "https://download.gamejolt.net/92878b868c517709c4cf9d791b2da35ced86f3dcc8bea20c40c9f3b71a9d16e7,1744812299,7/data/games/2/218/139218/files/5970fb099cff8/the-joy-of-creation-story-mode.zip",
     "executable": "/The Joy of Creation Story Mode/TJoC_SM.exe",
     "needExtract": true,
@@ -268,6 +271,7 @@
   {
     "id": 5,
     "title": "Overcooked!",
+    "warning": "Servidor desconectado",
     "url": "",
     "executable": "Overcooked! All You Can Eat/Overcooked All You Can Eat.exe",
     "requireSteam": true,
