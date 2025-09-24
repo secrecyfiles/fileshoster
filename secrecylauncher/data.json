@@ -42,12 +42,11 @@
     }
   },
   {
-    "id": 10,
+    "id": 1,
     "title": "R.E.P.O.",
-    "url": "https://pixeldrain.com/api/file/AtYdqUTJ?download",
+    "url": "https://www.dropbox.com/scl/fi/lev8mhz83iv1eb7ilyyhj/R.E.P.O.rar?rlkey=i7bhebpsluep3ukiedf9g90kh&st=154r0jiz&dl=1",
     "executable": "REPO.exe",
     "needExtract": true,
-    "extractPassword": "online-fix.me",
     "requireSteam": true,
     "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/1/header.jpg",
     "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/1/header.jpg",
