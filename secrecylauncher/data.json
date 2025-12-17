@@ -48,6 +48,7 @@
     "executable": "REPO.exe",
     "needExtract": true,
     "requireSteam": true,
+    "extractPassword": "online-fix.me",
     "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/1/header.jpg",
     "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/1/header.jpg",
     "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/1/video.webm",
