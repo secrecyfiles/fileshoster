@@ -83,8 +83,10 @@
     "title": "Phasmophobia",
     "warning": "Servidores de descarga temporalmente desconectados",
     "url": [
-      "https://pixeldrain.com/api/file/wXXD8ncc?download",
-      "https://pixeldrain.com/api/file/U5yeLVTN?download"
+      "https://pixeldrain.com/api/file/LhKzRTBS?download",
+      "https://pixeldrain.com/api/file/EYhoJctJ?download",
+      "https://pixeldrain.com/api/file/gryEPUa9?download",
+      "https://pixeldrain.com/api/file/WDygshod?download"
     ],
     "executable": "Phasmophobia/Launcher.exe",
     "needExtract": true,
