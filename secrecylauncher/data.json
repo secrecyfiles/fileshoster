@@ -1,5 +1,81 @@
 [
   {
+    "id": 1,
+    "title": "R.E.P.O.",
+    "url": "https://www.dropbox.com/scl/fi/egpnynd2o2m0sejx8a6xw/REPO.v0.3.2-OFME.rar?rlkey=d0bjoh0qlbl5g65qsipva8ta7&st=mt0n6krk&dl=1",
+    "executable": "REPO/REPO.exe",
+    "requireSteam": true,
+    "extractPassword": "online-fix.me",
+    "needExtract": true,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/1/header.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/1/header.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/1/video.webm",
+    "genre": "Terror cooperativo en línea",
+    "size": "1.7 GB",
+    "description": "R.E.P.O. es un juego de horror cooperativo para hasta 6 jugadores, donde debes localizar, manipular y extraer objetos valiosos con físicas realistas para cumplir los deseos de tu creador.",
+    "fullDescription": "En R.E.P.O., tú y tu equipo seréis enviados por una entidad misteriosa para recuperar objetos de valor en entornos oscuros y peligrosos. Con una mecánica de físicas compleja, cada objeto debe ser manejado con precisión mientras lidias con horrores ocultos. La experiencia se centra en el trabajo en equipo, la tensión constante y una ambientación espeluznante. Con una comunidad activa y reseñas extremadamente positivas, R.E.P.O. se ha convertido en un fenómeno cooperativo del terror.",
+    "developer": "semiwork",
+    "publisher": "semiwork",
+    "releaseDate": "26 FEB 2025",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 10 64-bit",
+        "Procesador: Intel i5-4590 / AMD FX 8350",
+        "Memoria: 8 GB RAM",
+        "Gráficos: NVIDIA GTX 970 / AMD Radeon R9 290",
+        "DirectX: Versión 11",
+        "Almacenamiento: 10 GB disponibles"
+      ],
+      "recommended": [
+        "OS: Windows 10 64-bit",
+        "Procesador: Intel i7 / AMD Ryzen 7",
+        "Memoria: 16 GB RAM",
+        "Gráficos: NVIDIA RTX 2060 / AMD RX 5700",
+        "DirectX: Versión 12",
+        "Almacenamiento: 10 GB SSD"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "title": "Content Warning",
+    "url": "https://www.dropbox.com/scl/fi/reelzhdh6uh9s4kisrvta/Content.Warning.v1.17.b-OFME.rar?rlkey=e106o3hm9tt8ln2mwwd71qtdj&st=w1ugp075&dl=1",
+    "executable": "Content Warning/Content Warning.exe",
+    "requireSteam": true,
+    "extractPassword": "online-fix.me",
+    "needExtract": true,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/10/header.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/10/library_hero.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/10/video.mp4",
+    "genre": "Terror cooperativo, comedia, supervivencia",
+    "size": "3.5 GB",
+    "description": "Content Warning es un juego de terror cooperativo donde tú y tus amigos graban videos de cosas espeluznantes para subirlas a SpöökTube. Cuanto más terrorífico sea el material que captures, más seguidores ganarás.",
+    "fullDescription": "En Content Warning, los jugadores forman un equipo de intrépidos camarógrafos que se adentran en profundidades oscuras para grabar contenido aterrador. El objetivo es filmar monstruos, sucesos paranormales o desastres mientras evitas morir en el proceso. El metraje se transforma en videos virales que aumentan tu audiencia en SpöökTube. Con una estética retro y físicas divertidas, el juego mezcla humor absurdo, tensión cooperativa y momentos imprevisibles. Su éxito se debe a su originalidad y fuerte componente social.",
+    "developer": "Landfall",
+    "publisher": "Landfall",
+    "releaseDate": "1 ABR 2024",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 10 64-bit",
+        "Procesador: Intel Core i5-7400 / AMD Ryzen 3 1200",
+        "Memoria: 8 GB RAM",
+        "Gráficos: NVIDIA GTX 1050 / AMD RX 560",
+        "DirectX: Versión 12",
+        "Almacenamiento: 6 GB disponibles"
+      ],
+      "recommended": [
+        "OS: Windows 10 64-bit",
+        "Procesador: Intel Core i7-9700K / AMD Ryzen 7 3700X",
+        "Memoria: 16 GB RAM",
+        "Gráficos: NVIDIA GTX 1660 / AMD RX 5600 XT",
+        "DirectX: Versión 12",
+        "Almacenamiento: 6 GB SSD"
+      ]
+    }
+  },
+  {
     "id": 9,
     "title": "Schedule I",
     "url": "https://www.dropbox.com/scl/fi/4fx7z4kafgcsilk9im079/Schedule.I.v0.3.6f5-OFME.rar?rlkey=h10xw6adstxw5vwd6ldbeqky7&st=gj8svz0n&dl=1",
@@ -41,44 +117,7 @@
       ]
     }
   },
-  {
-    "id": 1,
-    "title": "R.E.P.O.",
-    "url": "https://www.dropbox.com/scl/fi/egpnynd2o2m0sejx8a6xw/REPO.v0.3.2-OFME.rar?rlkey=d0bjoh0qlbl5g65qsipva8ta7&st=mt0n6krk&dl=1",
-    "executable": "REPO/REPO.exe",
-    "requireSteam": true,
-    "extractPassword": "online-fix.me",
-    "needExtract": true,
-    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/1/header.jpg",
-    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/1/header.jpg",
-    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/1/video.webm",
-    "genre": "Terror cooperativo en línea",
-    "size": "1.7 GB",
-    "description": "R.E.P.O. es un juego de horror cooperativo para hasta 6 jugadores, donde debes localizar, manipular y extraer objetos valiosos con físicas realistas para cumplir los deseos de tu creador.",
-    "fullDescription": "En R.E.P.O., tú y tu equipo seréis enviados por una entidad misteriosa para recuperar objetos de valor en entornos oscuros y peligrosos. Con una mecánica de físicas compleja, cada objeto debe ser manejado con precisión mientras lidias con horrores ocultos. La experiencia se centra en el trabajo en equipo, la tensión constante y una ambientación espeluznante. Con una comunidad activa y reseñas extremadamente positivas, R.E.P.O. se ha convertido en un fenómeno cooperativo del terror.",
-    "developer": "semiwork",
-    "publisher": "semiwork",
-    "releaseDate": "26 FEB 2025",
-    "platform": "Windows",
-    "systemRequirements": {
-      "minimum": [
-        "OS: Windows 10 64-bit",
-        "Procesador: Intel i5-4590 / AMD FX 8350",
-        "Memoria: 8 GB RAM",
-        "Gráficos: NVIDIA GTX 970 / AMD Radeon R9 290",
-        "DirectX: Versión 11",
-        "Almacenamiento: 10 GB disponibles"
-      ],
-      "recommended": [
-        "OS: Windows 10 64-bit",
-        "Procesador: Intel i7 / AMD Ryzen 7",
-        "Memoria: 16 GB RAM",
-        "Gráficos: NVIDIA RTX 2060 / AMD RX 5700",
-        "DirectX: Versión 12",
-        "Almacenamiento: 10 GB SSD"
-      ]
-    }
-  },
+
   {
     "id": 4,
     "title": "Phasmophobia",
