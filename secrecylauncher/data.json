@@ -384,5 +384,43 @@
         "Almacenamiento: 500 MB disponibles"
       ]
     }
+  },
+  {
+    "id": 11,
+    "title": "PEAK",
+    "url": "https://ancient-sky-664b.a29005.workers.dev/?url=https://rootz.so/api/files/download-by-short/orY00",
+    "executable": "PEAK/PEAK.exe",
+    "requireSteam": true,
+    "extractPassword": "online-fix.me",
+    "needExtract": true,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/11/image.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/11/header.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/11/video.mp4",
+    "genre": "Escalada cooperativa y supervivencia",
+    "size": "4 GB",
+    "description": "PEAK es un juego cooperativo de escalada en el que un solo error puede ser fatal. Ya sea en solitario o en grupo, tu única esperanza de salir de la misteriosa isla es subiendo hasta la cima de la montaña.",
+    "fullDescription": "En PEAK, tú y tus amigos (o en solitario) debéis enfrentaros al reto de escalar una montaña cuyo trazado cambia cada 24 horas. Atravesaréis 4 biomas distintos sorteando obstáculos mortales, buscando alimentos de dudosa procedencia para sobrevivir y gestionando con cuidado cada herida. El trabajo en equipo es fundamental: ayuda a tus compañeros a subir cornisas, fija cuerdas y utiliza herramientas de supervivencia para asegurar el ascenso. Con un enfoque semiprocedural y físicas que no perdonan ningún error, PEAK ofrece una experiencia impredecible, desafiante y muy divertida.",
+    "developer": "Aggro Crab, Landfall Games",
+    "publisher": "Aggro Crab, Landfall Games",
+    "releaseDate": "16 JUN 2025",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 10 de 64 bits",
+        "Procesador: Intel Core i5 @ 2.5 GHz o equivalente",
+        "Memoria: 8 GB RAM",
+        "Gráficos: NVIDIA GTX 1060 / AMD RX 6600 XT",
+        "DirectX: Versión 12",
+        "Almacenamiento: 4 GB disponibles"
+      ],
+      "recommended": [
+        "OS: Windows 11 de 64 bits",
+        "Procesador: Intel Core i5 @ 3.0 GHz / AMD Ryzen 5 o equivalente",
+        "Memoria: 16 GB RAM",
+        "Gráficos: NVIDIA RTX 2060 / AMD RX 7600 XT",
+        "DirectX: Versión 12",
+        "Almacenamiento: 6 GB disponibles"
+      ]
+    }
   }
 ]
