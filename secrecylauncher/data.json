@@ -1,5 +1,81 @@
 [
   {
+    "id": 11,
+    "title": "PEAK",
+    "url": "https://ancient-sky-664b.a29005.workers.dev/?url=https://rootz.so/api/files/download-by-short/orY00",
+    "executable": "PEAK/PEAK.exe",
+    "requireSteam": true,
+    "extractPassword": "online-fix.me",
+    "needExtract": true,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/11/image.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/11/header.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/11/video.mp4",
+    "genre": "Escalada cooperativa y supervivencia",
+    "size": "4 GB",
+    "description": "PEAK es un juego cooperativo de escalada en el que un solo error puede ser fatal. Ya sea en solitario o en grupo, tu única esperanza de salir de la misteriosa isla es subiendo hasta la cima de la montaña.",
+    "fullDescription": "En PEAK, tú y tus amigos (o en solitario) debéis enfrentaros al reto de escalar una montaña cuyo trazado cambia cada 24 horas. Atravesaréis 4 biomas distintos sorteando obstáculos mortales, buscando alimentos de dudosa procedencia para sobrevivir y gestionando con cuidado cada herida. El trabajo en equipo es fundamental: ayuda a tus compañeros a subir cornisas, fija cuerdas y utiliza herramientas de supervivencia para asegurar el ascenso. Con un enfoque semiprocedural y físicas que no perdonan ningún error, PEAK ofrece una experiencia impredecible, desafiante y muy divertida.",
+    "developer": "Aggro Crab, Landfall Games",
+    "publisher": "Aggro Crab, Landfall Games",
+    "releaseDate": "16 JUN 2025",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 10 de 64 bits",
+        "Procesador: Intel Core i5 @ 2.5 GHz o equivalente",
+        "Memoria: 8 GB RAM",
+        "Gráficos: NVIDIA GTX 1060 / AMD RX 6600 XT",
+        "DirectX: Versión 12",
+        "Almacenamiento: 4 GB disponibles"
+      ],
+      "recommended": [
+        "OS: Windows 11 de 64 bits",
+        "Procesador: Intel Core i5 @ 3.0 GHz / AMD Ryzen 5 o equivalente",
+        "Memoria: 16 GB RAM",
+        "Gráficos: NVIDIA RTX 2060 / AMD RX 7600 XT",
+        "DirectX: Versión 12",
+        "Almacenamiento: 6 GB disponibles"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "title": "Megabonk",
+    "url": "https://ancient-sky-664b.a29005.workers.dev/?url=https://rootz.so/api/files/download-by-short/23G1hY",
+    "executable": "Megabonk/Megabonk.exe",
+    "requireSteam": true,
+    "extractPassword": "online-fix.me",
+    "needExtract": true,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/12/image.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/12/header.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/12/video.mp4",
+    "genre": "Roguelike de supervivencia, Acción",
+    "size": "500 MB",
+    "description": "Megabonk es un frenético roguelike de supervivencia en 3D donde debes abrirte paso a golpes entre hordas infinitas de enemigos en mapas generados aleatoriamente.",
+    "fullDescription": "En Megabonk, tu objetivo es sobrevivir el mayor tiempo posible enfrentándote a oleadas de enemigos y jefes. Recoge botín, sube de nivel y elige entre diversas mejoras aleatorias para crear 'builds' increíblemente rotas y únicas. Con un estilo visual retro y mecánicas fuertemente inspiradas en Vampire Survivors pero llevadas a un entorno 3D en tercera persona, el juego destaca por su acción caótica, su gran sentido del humor y su adictivo sistema de meta-progresión con desbloqueo de múltiples personajes.",
+    "developer": "vedinad",
+    "publisher": "vedinad",
+    "releaseDate": "18 SEP 2025",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 10 (64-bit)",
+        "Procesador: potato 2",
+        "Memoria: 2 GB RAM",
+        "Gráficos: yes",
+        "DirectX: Versión 12",
+        "Almacenamiento: 500 MB disponibles"
+      ],
+      "recommended": [
+        "OS: Windows 10 (64-bit)",
+        "Procesador: potato 2",
+        "Memoria: 4 GB RAM",
+        "Gráficos: yes",
+        "DirectX: Versión 12",
+        "Almacenamiento: 500 MB disponibles"
+      ]
+    }
+  },
+  {
     "id": 1,
     "title": "R.E.P.O.",
     "url": "https://www.dropbox.com/scl/fi/egpnynd2o2m0sejx8a6xw/REPO.v0.3.2-OFME.rar?rlkey=d0bjoh0qlbl5g65qsipva8ta7&st=mt0n6krk&dl=1",
@@ -161,45 +237,7 @@
       ]
     }
   },
-  {
-    "id": 8,
-    "title": "Human: Fall Flat",
-    "warning": "Servidores de descarga temporalmente desconectados",
-    "url": "https://pixeldrain.com/api/file/GUXFLYcP?download",
-    "executable": "Human Fall Flat/Human.exe",
-    "needExtract": true,
-    "extractPassword": "online-fix.me",
-    "requireSteam": true,
-    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/8/image.png",
-    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/8/header.webp",
-    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/8/video.webm",
-    "genre": "Plataformas, Física, Cooperativo",
-    "size": "2.5 GB",
-    "description": "Human: Fall Flat es un divertido juego de plataformas basado en física con soporte para multijugador cooperativo en línea. Resuelve rompecabezas con libertad y creatividad en un mundo lleno de física loca.",
-    "fullDescription": "Human: Fall Flat es un juego de plataformas y acertijos basado en física donde controlas a un personaje personalizable con movimientos torpes pero entrañables. Cada nivel presenta desafíos únicos que pueden resolverse de múltiples formas, fomentando la creatividad y el trabajo en equipo. Puedes jugar solo o con hasta 8 amigos en línea mientras exploras entornos surrealistas y dinámicos como castillos, fábricas, estaciones de tren y más. Gracias a sus controles únicos y físicas realistas, cada sesión de juego es una experiencia divertida, impredecible y llena de risas.",
-    "developer": "No Brakes Games",
-    "publisher": "Curve Games",
-    "releaseDate": "22 JUL 2016",
-    "platform": "Windows",
-    "systemRequirements": {
-      "minimum": [
-        "OS: Windows 7 de 64 bits",
-        "Procesador: Intel Core2 Duo E6750 / AMD Athlon 64 X2 6400+",
-        "Memoria: 2 GB de RAM",
-        "Gráficos: NVIDIA GeForce 8800GT / ATI Radeon HD 4850",
-        "DirectX: Versión 11",
-        "Almacenamiento: 2.5 GB de espacio disponible"
-      ],
-      "recommended": [
-        "OS: Windows 10 de 64 bits",
-        "Procesador: Intel Core i3-6300 / AMD Ryzen 3 1200",
-        "Memoria: 8 GB de RAM",
-        "Gráficos: NVIDIA GeForce GTX 660 / AMD Radeon R9 270",
-        "DirectX: Versión 11",
-        "Almacenamiento: 2.5 GB de espacio disponible"
-      ]
-    }
-  },
+
   {
     "id": 6,
     "title": "Five Nights at Freddy's: Sister Location",
@@ -237,9 +275,85 @@
     }
   },
   {
+    "id": 2,
+    "title": "Five Nights at Freddy's 3",
+    "url": "",
+    "executable": "FNaF3.exe",
+    "needExtract": false,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/2/header.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/2/header.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/2/video.mp4",
+    "genre": "Survival Horror",
+    "size": "500 MB",
+    "description": "Five Nights at Freddy's 3 es un juego de terror y supervivencia en el que debes sobrevivir cinco noches como guardia de seguridad en una atracción de terror basada en los eventos de Freddy Fazbear's Pizza.",
+    "fullDescription": "En Five Nights at Freddy's 3, ambientado 30 años después del cierre de Freddy Fazbear's Pizza, trabajas como guardia nocturno en Fazbear's Fright: The Horror Attraction. Debes vigilar las cámaras de seguridad y mantener los sistemas operativos mientras evitas a Springtrap, el único animatrónico físico, y a los fantasmas de los animatrónicos anteriores que intentan sabotear tus esfuerzos. La atmósfera tensa y la jugabilidad estratégica hacen de este título una experiencia aterradora y desafiante.",
+    "developer": "Scott Cawthon",
+    "publisher": "Scott Cawthon",
+    "releaseDate": "2 MAR 2015",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows XP/Vista/7/8",
+        "Procesador: 2 GHz Intel Pentium 4 o superior",
+        "Memoria: 1 GB RAM",
+        "Gráficos: 1 GB",
+        "DirectX: Versión 9.0",
+        "Almacenamiento: 250 MB disponibles"
+      ],
+      "recommended": [
+        "OS: Windows 7/8/10",
+        "Procesador: 2.5 GHz Intel Pentium 4 o superior",
+        "Memoria: 2 GB RAM",
+        "Gráficos: 2 GB",
+        "DirectX: Versión 9.0",
+        "Almacenamiento: 500 MB disponibles"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "title": "Human: Fall Flat",
+    "warning": "Servidores de descarga temporalmente desconectados",
+    "url": "",
+    "executable": "Human Fall Flat/Human.exe",
+    "needExtract": true,
+    "extractPassword": "online-fix.me",
+    "requireSteam": true,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/8/image.png",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/8/header.webp",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/8/video.webm",
+    "genre": "Plataformas, Física, Cooperativo",
+    "size": "2.5 GB",
+    "description": "Human: Fall Flat es un divertido juego de plataformas basado en física con soporte para multijugador cooperativo en línea. Resuelve rompecabezas con libertad y creatividad en un mundo lleno de física loca.",
+    "fullDescription": "Human: Fall Flat es un juego de plataformas y acertijos basado en física donde controlas a un personaje personalizable con movimientos torpes pero entrañables. Cada nivel presenta desafíos únicos que pueden resolverse de múltiples formas, fomentando la creatividad y el trabajo en equipo. Puedes jugar solo o con hasta 8 amigos en línea mientras exploras entornos surrealistas y dinámicos como castillos, fábricas, estaciones de tren y más. Gracias a sus controles únicos y físicas realistas, cada sesión de juego es una experiencia divertida, impredecible y llena de risas.",
+    "developer": "No Brakes Games",
+    "publisher": "Curve Games",
+    "releaseDate": "22 JUL 2016",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 7 de 64 bits",
+        "Procesador: Intel Core2 Duo E6750 / AMD Athlon 64 X2 6400+",
+        "Memoria: 2 GB de RAM",
+        "Gráficos: NVIDIA GeForce 8800GT / ATI Radeon HD 4850",
+        "DirectX: Versión 11",
+        "Almacenamiento: 2.5 GB de espacio disponible"
+      ],
+      "recommended": [
+        "OS: Windows 10 de 64 bits",
+        "Procesador: Intel Core i3-6300 / AMD Ryzen 3 1200",
+        "Memoria: 8 GB de RAM",
+        "Gráficos: NVIDIA GeForce GTX 660 / AMD Radeon R9 270",
+        "DirectX: Versión 11",
+        "Almacenamiento: 2.5 GB de espacio disponible"
+      ]
+    }
+  },
+  {
     "id": 3,
     "title": "Five Nights at Freddy's 4",
-    "url": "https://www.dropbox.com/scl/fi/pp34tcf1pffor7ieuvii8/FNAF4.rar?rlkey=r8g20cz5bnitcc3gfbqz4wmql&e=1&st=wng2utqs&dl=1",
+    "url": "",
+    "warning": "Servidores de descarga temporalmente desconectados",
     "executable": "FNAF4.exe",
     "needExtract": true,
     "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/3/header.jpg",
@@ -345,119 +459,6 @@
         "Gráficos: GPU de 800 MHz con 8 GB GDDR5",
         "DirectX: Versión 11",
         "Almacenamiento: 1 GB de espacio disponible"
-      ]
-    }
-  },
-
-  {
-    "id": 2,
-    "title": "Five Nights at Freddy's 3",
-    "url": "",
-    "executable": "FNaF3.exe",
-    "needExtract": false,
-    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/2/header.jpg",
-    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/2/header.jpg",
-    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/2/video.mp4",
-    "genre": "Survival Horror",
-    "size": "500 MB",
-    "description": "Five Nights at Freddy's 3 es un juego de terror y supervivencia en el que debes sobrevivir cinco noches como guardia de seguridad en una atracción de terror basada en los eventos de Freddy Fazbear's Pizza.",
-    "fullDescription": "En Five Nights at Freddy's 3, ambientado 30 años después del cierre de Freddy Fazbear's Pizza, trabajas como guardia nocturno en Fazbear's Fright: The Horror Attraction. Debes vigilar las cámaras de seguridad y mantener los sistemas operativos mientras evitas a Springtrap, el único animatrónico físico, y a los fantasmas de los animatrónicos anteriores que intentan sabotear tus esfuerzos. La atmósfera tensa y la jugabilidad estratégica hacen de este título una experiencia aterradora y desafiante.",
-    "developer": "Scott Cawthon",
-    "publisher": "Scott Cawthon",
-    "releaseDate": "2 MAR 2015",
-    "platform": "Windows",
-    "systemRequirements": {
-      "minimum": [
-        "OS: Windows XP/Vista/7/8",
-        "Procesador: 2 GHz Intel Pentium 4 o superior",
-        "Memoria: 1 GB RAM",
-        "Gráficos: 1 GB",
-        "DirectX: Versión 9.0",
-        "Almacenamiento: 250 MB disponibles"
-      ],
-      "recommended": [
-        "OS: Windows 7/8/10",
-        "Procesador: 2.5 GHz Intel Pentium 4 o superior",
-        "Memoria: 2 GB RAM",
-        "Gráficos: 2 GB",
-        "DirectX: Versión 9.0",
-        "Almacenamiento: 500 MB disponibles"
-      ]
-    }
-  },
-  {
-    "id": 11,
-    "title": "PEAK",
-    "url": "https://ancient-sky-664b.a29005.workers.dev/?url=https://rootz.so/api/files/download-by-short/orY00",
-    "executable": "PEAK/PEAK.exe",
-    "requireSteam": true,
-    "extractPassword": "online-fix.me",
-    "needExtract": true,
-    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/11/image.jpg",
-    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/11/header.jpg",
-    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/11/video.mp4",
-    "genre": "Escalada cooperativa y supervivencia",
-    "size": "4 GB",
-    "description": "PEAK es un juego cooperativo de escalada en el que un solo error puede ser fatal. Ya sea en solitario o en grupo, tu única esperanza de salir de la misteriosa isla es subiendo hasta la cima de la montaña.",
-    "fullDescription": "En PEAK, tú y tus amigos (o en solitario) debéis enfrentaros al reto de escalar una montaña cuyo trazado cambia cada 24 horas. Atravesaréis 4 biomas distintos sorteando obstáculos mortales, buscando alimentos de dudosa procedencia para sobrevivir y gestionando con cuidado cada herida. El trabajo en equipo es fundamental: ayuda a tus compañeros a subir cornisas, fija cuerdas y utiliza herramientas de supervivencia para asegurar el ascenso. Con un enfoque semiprocedural y físicas que no perdonan ningún error, PEAK ofrece una experiencia impredecible, desafiante y muy divertida.",
-    "developer": "Aggro Crab, Landfall Games",
-    "publisher": "Aggro Crab, Landfall Games",
-    "releaseDate": "16 JUN 2025",
-    "platform": "Windows",
-    "systemRequirements": {
-      "minimum": [
-        "OS: Windows 10 de 64 bits",
-        "Procesador: Intel Core i5 @ 2.5 GHz o equivalente",
-        "Memoria: 8 GB RAM",
-        "Gráficos: NVIDIA GTX 1060 / AMD RX 6600 XT",
-        "DirectX: Versión 12",
-        "Almacenamiento: 4 GB disponibles"
-      ],
-      "recommended": [
-        "OS: Windows 11 de 64 bits",
-        "Procesador: Intel Core i5 @ 3.0 GHz / AMD Ryzen 5 o equivalente",
-        "Memoria: 16 GB RAM",
-        "Gráficos: NVIDIA RTX 2060 / AMD RX 7600 XT",
-        "DirectX: Versión 12",
-        "Almacenamiento: 6 GB disponibles"
-      ]
-    }
-  },
-  {
-    "id": 12,
-    "title": "Megabonk",
-    "url": "https://ancient-sky-664b.a29005.workers.dev/?url=https://rootz.so/api/files/download-by-short/23G1hY",
-    "executable": "Megabonk/Megabonk.exe",
-    "requireSteam": true,
-    "extractPassword": "online-fix.me",
-    "needExtract": true,
-    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/12/image.jpg",
-    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/12/header.jpg",
-    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/12/video.mp4",
-    "genre": "Roguelike de supervivencia, Acción",
-    "size": "500 MB",
-    "description": "Megabonk es un frenético roguelike de supervivencia en 3D donde debes abrirte paso a golpes entre hordas infinitas de enemigos en mapas generados aleatoriamente.",
-    "fullDescription": "En Megabonk, tu objetivo es sobrevivir el mayor tiempo posible enfrentándote a oleadas de enemigos y jefes. Recoge botín, sube de nivel y elige entre diversas mejoras aleatorias para crear 'builds' increíblemente rotas y únicas. Con un estilo visual retro y mecánicas fuertemente inspiradas en Vampire Survivors pero llevadas a un entorno 3D en tercera persona, el juego destaca por su acción caótica, su gran sentido del humor y su adictivo sistema de meta-progresión con desbloqueo de múltiples personajes.",
-    "developer": "vedinad",
-    "publisher": "vedinad",
-    "releaseDate": "18 SEP 2025",
-    "platform": "Windows",
-    "systemRequirements": {
-      "minimum": [
-        "OS: Windows 10 (64-bit)",
-        "Procesador: potato 2",
-        "Memoria: 2 GB RAM",
-        "Gráficos: yes",
-        "DirectX: Versión 12",
-        "Almacenamiento: 500 MB disponibles"
-      ],
-      "recommended": [
-        "OS: Windows 10 (64-bit)",
-        "Procesador: potato 2",
-        "Memoria: 4 GB RAM",
-        "Gráficos: yes",
-        "DirectX: Versión 12",
-        "Almacenamiento: 500 MB disponibles"
       ]
     }
   }
