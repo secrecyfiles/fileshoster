@@ -422,5 +422,43 @@
         "Almacenamiento: 6 GB disponibles"
       ]
     }
+  },
+  {
+    "id": 12,
+    "title": "Megabonk",
+    "url": "https://ancient-sky-664b.a29005.workers.dev/?url=https://rootz.so/api/files/download-by-short/23G1hY",
+    "executable": "Megabonk/Megabonk.exe",
+    "requireSteam": true,
+    "extractPassword": "online-fix.me",
+    "needExtract": true,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/12/image.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/12/header.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/12/video.mp4",
+    "genre": "Roguelike de supervivencia, Acción",
+    "size": "500 MB",
+    "description": "Megabonk es un frenético roguelike de supervivencia en 3D donde debes abrirte paso a golpes entre hordas infinitas de enemigos en mapas generados aleatoriamente.",
+    "fullDescription": "En Megabonk, tu objetivo es sobrevivir el mayor tiempo posible enfrentándote a oleadas de enemigos y jefes. Recoge botín, sube de nivel y elige entre diversas mejoras aleatorias para crear 'builds' increíblemente rotas y únicas. Con un estilo visual retro y mecánicas fuertemente inspiradas en Vampire Survivors pero llevadas a un entorno 3D en tercera persona, el juego destaca por su acción caótica, su gran sentido del humor y su adictivo sistema de meta-progresión con desbloqueo de múltiples personajes.",
+    "developer": "vedinad",
+    "publisher": "vedinad",
+    "releaseDate": "18 SEP 2025",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 10 (64-bit)",
+        "Procesador: potato 2",
+        "Memoria: 2 GB RAM",
+        "Gráficos: yes",
+        "DirectX: Versión 12",
+        "Almacenamiento: 500 MB disponibles"
+      ],
+      "recommended": [
+        "OS: Windows 10 (64-bit)",
+        "Procesador: potato 2",
+        "Memoria: 4 GB RAM",
+        "Gráficos: yes",
+        "DirectX: Versión 12",
+        "Almacenamiento: 500 MB disponibles"
+      ]
+    }
   }
 ]
