@@ -384,5 +384,42 @@
         "Almacenamiento: 500 MB disponibles"
       ]
     }
+  },
+  {
+    "id": 12,
+    "title": "RV Yet There",
+    "url": "https://rootz.so/api/files/download-by-short/SYQOO",
+    "executable": "RV Yet There/RVYetThere.exe",
+    "needExtract": true,
+    "extractPassword": "online-fix.me",
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/12/header.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/12/header.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/12/video.webm",
+    "genre": "Simulación, Aventura",
+    "size": "500 MB",
+    "description": "RV Yet There es una aventura relajante y divertida en autocaravana donde recorrerás rutas panorámicas.",
+    "fullDescription": "En RV Yet There, embárcate en un relajante viaje en autocaravana explorando diversas rutas panorámicas. Explora diferentes lugares, completa desafíos sencillos y disfruta del viaje a tu propio ritmo. Conduce por autopistas, caminos rurales y entornos únicos mientras gestionas tu viaje. Descubre nuevos lugares, interactúa con el entorno y convierte cada parada en parte de tu aventura. Con controles fluidos y una jugabilidad relajante, este juego ofrece una experiencia de viaje tranquila, llena de exploración y diversión.",
+    "developer": "GraceLinkGlobal",
+    "publisher": "GraceLinkGlobal",
+    "releaseDate": "30 MAR 2026",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 10 64-bit",
+        "Procesador: Intel Core i3 o equivalente",
+        "Memoria: 4 GB RAM",
+        "Gráficos: Intel HD Graphics 4000 o equivalente",
+        "DirectX: Versión 11",
+        "Almacenamiento: 1 GB de espacio disponible"
+      ],
+      "recommended": [
+        "OS: Windows 10 64-bit",
+        "Procesador: Intel Core i5 o superior",
+        "Memoria: 8 GB RAM",
+        "Gráficos: NVIDIA GeForce GTX 960 o superior",
+        "DirectX: Versión 11",
+        "Almacenamiento: 2 GB de espacio disponible"
+      ]
+    }
   }
 ]
