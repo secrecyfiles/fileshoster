@@ -1,5 +1,43 @@
 [
   {
+    "id": 14,
+    "title": "We gotta go",
+    "url": "https://ancient-sky-664b.a29005.workers.dev/?url=https://rootz.so/api/files/download/78dd3243-37aa-4b61-be12-88f72738c060",
+    "executable": "We gotta go/We gotta go.exe",
+    "needExtract": true,
+    "extractPassword": "online-fix.me",
+    "requireSteam": true,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/14/image.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/14/header.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/14/video.mp4",
+    "genre": "Acción, Cooperativo, Supervivencia",
+    "size": "1.2 GB",
+    "description": "We gotta go es un intenso juego cooperativo donde el tiempo es tu peor enemigo mientras intentas escapar de situaciones caóticas.",
+    "fullDescription": "En We gotta go, tú y tus amigos debéis trabajar juntos para superar una serie de niveles llenos de obstáculos y peligros inminentes. La comunicación es clave para resolver acertijos rápidos, evitar trampas y asegurar que todo el equipo llegue a la zona de extracción antes de que sea demasiado tarde. Con mecánicas de movimiento fluidas y un enfoque en la urgencia, cada partida promete adrenalina pura y momentos de risas y tensión asegurados. ¡No mires atrás, solo corre!",
+    "developer": "Emergency Studios",
+    "publisher": "Emergency Studios",
+    "releaseDate": "15 OCT 2025",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 10 64-bit",
+        "Procesador: Intel Core i5-4460 / AMD FX-6300",
+        "Memoria: 8 GB RAM",
+        "Gráficos: NVIDIA GeForce GTX 760 / AMD Radeon R7 260x",
+        "DirectX: Versión 11",
+        "Almacenamiento: 2 GB de espacio disponible"
+      ],
+      "recommended": [
+        "OS: Windows 11 64-bit",
+        "Procesador: Intel Core i7-6700K / AMD Ryzen 5 1600",
+        "Memoria: 12 GB RAM",
+        "Gráficos: NVIDIA GeForce GTX 1060 / AMD Radeon RX 580",
+        "DirectX: Versión 12",
+        "Almacenamiento: 3 GB de espacio disponible"
+      ]
+    }
+  },
+  {
     "id": 13,
     "title": "RV There Yet?",
     "url": "https://ancient-sky-664b.a29005.workers.dev/?url=https://rootz.so/api/files/download/ebe3e566-6a25-48eb-857c-147ee23d4b19",
