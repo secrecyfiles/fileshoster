@@ -1,5 +1,43 @@
 [
   {
+    "id": 15,
+    "title": "Gamble with your friends",
+    "url": "https://ancient-sky-664b.a29005.workers.dev/?url=https://rootz.so/api/files/download/0c867846-451c-4dce-a8c9-a7a939bfedbf",
+    "executable": "Gamble with your friends/Casino.exe",
+    "needExtract": true,
+    "extractPassword": "online-fix.me",
+    "requireSteam": true,
+    "image": "",
+    "banner": "",
+    "backgroundVideo": "",
+    "genre": "Estrategia, Multijugador, Fiesta, Azar",
+    "size": "1.2 GB",
+    "description": "Gamble with your friends es un divertido juego multijugador donde la suerte, la estrategia y los faroles decidirán quién se queda con todo el botín.",
+    "fullDescription": "En Gamble with your friends, tú y tus amigos os enfrentaréis en una mesa virtual llena de tensión, risas y apuestas arriesgadas. Compite en una variedad de juegos de azar y minijuegos psicológicos donde saber leer a tus oponentes es tan importante como tener una buena mano. Gestiona tus fichas, asume riesgos calculados y sabotea a tus amigos en el momento justo para dejarlos en la bancarrota. ¿Tienes la sangre fría necesaria para ganar la partida o lo perderás todo en el último segundo?",
+    "developer": "Lucky Dice Studios",
+    "publisher": "Lucky Dice Studios",
+    "releaseDate": "15 OCT 2025",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 10 64-bit",
+        "Procesador: Intel Core i5-4460 / AMD FX-6300",
+        "Memoria: 8 GB RAM",
+        "Gráficos: NVIDIA GeForce GTX 760 / AMD Radeon R7 260x",
+        "DirectX: Versión 11",
+        "Almacenamiento: 2 GB de espacio disponible"
+      ],
+      "recommended": [
+        "OS: Windows 11 64-bit",
+        "Procesador: Intel Core i7-6700K / AMD Ryzen 5 1600",
+        "Memoria: 12 GB RAM",
+        "Gráficos: NVIDIA GeForce GTX 1060 / AMD Radeon RX 580",
+        "DirectX: Versión 12",
+        "Almacenamiento: 3 GB de espacio disponible"
+      ]
+    }
+  },
+  {
     "id": 14,
     "title": "We gotta go",
     "url": "https://ancient-sky-664b.a29005.workers.dev/?url=https://rootz.so/api/files/download/78dd3243-37aa-4b61-be12-88f72738c060",
