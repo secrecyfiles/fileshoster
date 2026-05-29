@@ -1,5 +1,43 @@
 [
   {
+    "id": 16,
+    "title": "Raft",
+    "url": "https://ancient-sky-664b.a29005.workers.dev/?url=https://rootz.so/api/files/download/09d57a77-31c0-4e28-992c-eb586ba13793",
+    "executable": "Raft/Raft.exe",
+    "needExtract": true,
+    "extractPassword": "online-fix.me",
+    "requireSteam": true,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/16/image.jpg",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/16/header.jpg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/16/video.mp4",
+    "genre": "Supervivencia, Mundo abierto, Construcción, Cooperativo",
+    "size": "10 GB",
+    "description": "Raft te lanza a ti y a tus amigos a una aventura épica en alta mar, donde el objetivo es sobrevivir, recolectar recursos y construir una mansión flotante.",
+    "fullDescription": "En Raft, despiertas en una pequeña balsa de madera en medio de un océano infinito, armado solo con un gancho de plástico. Tu misión es atrapar los desechos que flotan a tu alrededor, expandir tu balsa y transformarla en una fortaleza flotante capaz de resistir los peligros del mar, especialmente a un incansable tiburón hambriento. Explora islas misteriosas, bucea en arrecifes de coral en busca de materiales raros y automatiza sistemas de supervivencia. ¿Podrás descubrir los secretos del viejo mundo y encontrar tierra firme junto a tu tripulación?",
+    "developer": "Redbeet Interactive",
+    "publisher": "Axolot Games",
+    "releaseDate": "20 JUN 2022",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 7 o posterior (64-bit)",
+        "Procesador: Intel Core i5 2.6 GHz o equivalente",
+        "Memoria: 6 GB RAM",
+        "Gráficos: NVIDIA GeForce GTX 700 series o AMD equivalente",
+        "DirectX: Versión 11",
+        "Almacenamiento: 10 GB de espacio disponible"
+      ],
+      "recommended": [
+        "OS: Windows 10 o posterior (64-bit)",
+        "Procesador: Intel Core i5 3.0 GHz o equivalente",
+        "Memoria: 8 GB RAM",
+        "Gráficos: NVIDIA GeForce GTX 970 o AMD equivalente",
+        "DirectX: Versión 11",
+        "Almacenamiento: 10 GB de espacio disponible"
+      ]
+    }
+  },
+  {
     "id": 15,
     "title": "Gamble with your friends",
     "url": "https://ancient-sky-664b.a29005.workers.dev/?url=https://rootz.so/api/files/download/0c867846-451c-4dce-a8c9-a7a939bfedbf",
