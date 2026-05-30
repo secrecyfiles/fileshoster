@@ -1,5 +1,43 @@
 [
   {
+    "id": 17,
+    "title": "Scamline",
+    "url": "https://ancient-sky-664b.a29005.workers.dev/?url=https://rootz.so/api/files/download/0cba06d5-bb7f-4c27-a7bf-edbbb3601809",
+    "executable": "Scamline/Scamline.exe",
+    "needExtract": true,
+    "extractPassword": "online-fix.me",
+    "requireSteam": true,
+    "image": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/17/image.ico",
+    "banner": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/17/header.jpeg",
+    "backgroundVideo": "https://secrecyfiles.github.io/fileshoster/secrecylauncher/17/video.mp4",
+    "genre": "Estrategia, Simulador, Cooperativo, Casual",
+    "size": "1.5 GB",
+    "description": "Scamline te pone al frente de un centro de llamadas clandestino donde tú y tus amigos tendréis que coordinaros para ejecutar los engaños más absurdos y lucrativos.",
+    "fullDescription": "En Scamline, la ética se queda fuera. Reúne a tu equipo y gestiona operaciones telefónicas complejas en una carrera contrarreloj para alcanzar tus objetivos financieros. Asigna roles, mejora tus guiones de llamadas, hackea bases de datos y esquiva a las autoridades que intentan rastrear vuestra ubicación. Cada nivel introduce nuevas tecnologías de seguridad que deberás burlar con rapidez y astucia. Con una buena dosis de humor negro y mecánicas de gestión frenéticas, la comunicación fluida con tus socios criminales será lo único que os salve de acabar entre rejas.",
+    "developer": "Phony Games",
+    "publisher": "Phony Games",
+    "releaseDate": "12 NOV 2025",
+    "platform": "Windows",
+    "systemRequirements": {
+      "minimum": [
+        "OS: Windows 10 64-bit",
+        "Procesador: Intel Core i3-6100 / AMD FX-8350",
+        "Memoria: 8 GB RAM",
+        "Gráficos: NVIDIA GTX 960 / AMD Radeon R9 280",
+        "DirectX: Versión 11",
+        "Almacenamiento: 2 GB de espacio disponible"
+      ],
+      "recommended": [
+        "OS: Windows 11 64-bit",
+        "Procesador: Intel Core i5-8400 / AMD Ryzen 5 2600",
+        "Memoria: 12 GB RAM",
+        "Gráficos: NVIDIA GTX 1060 / AMD Radeon RX 580",
+        "DirectX: Versión 12",
+        "Almacenamiento: 3 GB de espacio disponible"
+      ]
+    }
+  },
+  {
     "id": 16,
     "title": "Raft",
     "url": "https://ancient-sky-664b.a29005.workers.dev/?url=https://rootz.so/api/files/download/09d57a77-31c0-4e28-992c-eb586ba13793",
